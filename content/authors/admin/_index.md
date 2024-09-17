@@ -39,7 +39,7 @@ skills:
         icon: camera-retro
         icon_pack: fas
 title: Farhana Agufa
-role: Digital Skills Trainer | Freelance Writer & Tutor | Junior Data Analyst
+role: Digital Skills Trainer | Junior Data Scientist
 avatar_filename: avatar.png
 bio: Curious mind meets data enthusiast.
 interests:
