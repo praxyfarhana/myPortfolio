@@ -83,11 +83,12 @@ highlight_name: true
 first_name: John
 ---
 
-I'm John Karanja, a passionate professional with a diverse background in freelancing, training, and data analytics. 
+I am Farhana Agufa, a dynamic digital work trainer and junior data scientist, mostly known for my innovative approach to leveraging technology for professional development and data-driven decision-making. With a passion for transforming digital work environments and an analytical mindset, I have made significant strides in my career by bridging the gap between technical expertise and practical application.
 
-My journey began in freelance writing and tutoring, where I honed my research and synthesis skills, helping students master complex topics and excel in their studies. Eager to equip others with digital skills, I transitioned to being a Digital Skills Trainer, using my training expertise and tech fluency to empower individuals and organizations to thrive in the digital landscape.
 
-Driven by a thirst for knowledge and a knack for identifying patterns, I embraced the world of data analytics. As a Data Analyst, I leverage my analytical skills and data-driven mindset to extract meaningful insights from complex datasets, contributing to informed decision-making and effective strategic planning. I am interested in using advanced analytics on big data using SQL, R, pandas, numpy and scikit learn to provide cutting edge solutions to business problems.
+My professional journey began as a Digital Work Trainer, I have and still am instrumental in designing and delivering comprehensive training programs aimed at enhancing digital literacy and productivity in the workplace. My expertise includes creating engaging instructional materials, facilitating workshops,providing one-on-one coaching to help employees adapt to evolving digital tools and platforms, conduct regular quality assessments offering feedback and developing plans on how to improve quality across allocated projects. I excel in demystifying complex technologies and fostering a culture of continuous learning, enabling individuals and organizations to thrive in a digital age.
 
-Beyond my professional pursuits, I'm passionate about fostering learning and collaborating with individuals who share a love for continuous growth and innovation. Whether you're looking to expand your digital skillset, uncover hidden insights in your data, or simply connect with a like-minded individual, I'd love to hear from you!
+Driven by a thirst for knowledge and a knack for identifying patterns and discovering insights, as a Junior Data Scientist, I apply my analytical skills to uncover insights and drive data-informed decisions. My work evolves around collecting, processing, and analyzing data to identify trends, make predictions, and support strategic initiatives. My role requires proficiency in statistical analysis, machine learning, and data visualization, which I leverage to contribute valuable findings to collaboration teams. 
+
+In addition, I have great communications skills, able to potray data presentaion effeciently. Secondly, great interpersonal skills, which is crucial when integrating with different audience, am a good collaborator and great team player with cross-functional teams, and more importantly ensuring accuracy in data analysis and reporting.
 {style="text-align: justify;"}
