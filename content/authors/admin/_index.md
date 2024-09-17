@@ -38,7 +38,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-title: John Michael Karanja
+title: Farhana Agufa
 role: Digital Skills Trainer | Freelance Writer & Tutor | Junior Data Analyst
 avatar_filename: avatar.png
 bio: Curious mind meets data enthusiast.
