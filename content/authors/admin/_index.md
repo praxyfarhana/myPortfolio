@@ -41,23 +41,22 @@ skills:
 title: Farhana Agufa
 role: Digital Skills Trainer | Junior Data Scientist
 avatar_filename: avatar.png
-bio: Curious mind meets data enthusiast.
+bio: Growth is Constant for me.
 interests:
   - Digital Skilling
-  - Freelance Writing
   - Freelance Tutoring
   - Data Analytics
   - Technology
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mikaranja@gmail.com
+    link: mailto:praxyfarhana@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/mikaranja
+    link: https://github.com/praxyfarhana
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mikaranja/
+    link: https://www.linkedin.com/in/farhana-agufa-45639520b/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -65,22 +64,16 @@ education:
   courses:
     - course: Google Advanced Data Analytics Certificate
       institution: Coursera
-      year: 2024
+      year: 2023
     - course: Google Data Analytics Certificate
       institution: Coursera
       year: 2023
-    - course: Data Analyst in SQL
-      institution: DataCamp
-      year: 2023
-    - course: Bachelor of Science in Chemistry
-      institution: University of Nairobi
-      year: 2019
 superuser: true
 status:
   icon: ☕️
-last_name: Karanja
+last_name: Agufa
 highlight_name: true
-first_name: John
+first_name: Farhana
 ---
 
 I am Farhana Agufa, a dynamic digital work trainer and junior data scientist, mostly known for my innovative approach to leveraging technology for professional development and data-driven decision-making. With a passion for transforming digital work environments and an analytical mindset, I have made significant strides in my career by bridging the gap between technical expertise and practical application.
