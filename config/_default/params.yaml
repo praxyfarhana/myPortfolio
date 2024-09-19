@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Digital Skills Trainer | Freelance Writer & Tutor | Junior Data Analyst'
+    description: 'Digital Skills Trainer | Junior Data Scientist'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} John Karanja.' # This work is licensed under {license}
+    notice: '© {year} Farhana Agufa.' # This work is licensed under {license}
     license:
       enable: false
       allow_derivatives: false

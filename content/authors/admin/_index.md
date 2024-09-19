@@ -59,7 +59,7 @@ social:
     link: https://www.linkedin.com/in/farhana-agufa-45639520b/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/farhana.pdf
 education:
   courses:
     - course: Google Advanced Data Analytics Certificate
